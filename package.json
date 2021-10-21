@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techylem/puppeteer-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Techylem/puppeteer-sample/issues"
+  },
+  "homepage": "https://github.com/Techylem/puppeteer-sample#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
